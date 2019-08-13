@@ -12,7 +12,7 @@ eureka:
   client:
     instance:
       hostname: client
-env: dev
+env: dev1
 girl:
   name: liuyifei
   age: 18
