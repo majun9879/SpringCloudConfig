@@ -14,5 +14,5 @@ eureka:
       hostname: client
 env: dev
 girl:
-  name: wangjiaru
+  name: liuyifei
   age: 18
