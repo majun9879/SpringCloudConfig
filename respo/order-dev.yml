@@ -13,3 +13,6 @@ eureka:
     instance:
       hostname: client
 env: dev
+girl:
+  name: wangjiaru
+  age: 18
