@@ -12,4 +12,4 @@ eureka:
   client:
     instance:
       hostname: client
-env: dev
+env: dev_edit
