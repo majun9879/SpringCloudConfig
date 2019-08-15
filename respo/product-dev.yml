@@ -1,3 +1,7 @@
+eureka:
+  client:
+    instance:
+      hostname: product
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
